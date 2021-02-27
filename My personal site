@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ivona Dutkova Personal site</title>
+  </head>
+  <body>
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFZDpVPQD-LlQ/profile-displayphoto-shrink_200_200/0/1612189951424?e=1618444800&v=beta&t=wnhBFGJmqInyPZnu_6yVLZ8VE33m0JLY62PBFlYmTKY
+    " alt="Ivona Profile picture">
+    <h1> Ivona Dutkova</h1>
+    <p>
+      <em>Marketing with Digital Media student</em>
+      </p>
+
+    <p>
+        Bilingual, highly proactive self-starter in my penultimate year of Marketing with Digital Media at Edinburgh Napier University
+      </p>
+      <strong><a href="https://www.linkedin.com/in/ivona-dutkova-a96951171/">My LinkedIN profile</a></strong>
+      <br>
+      <a href="file:///C:/Users/Ivona/OneDrive/Desktop/Udemy%20Web%20Dev%20Bootcamp/Web%20Development/HTML%20-%20Personal%20Site/Contact%20me.html">Contact me</a>
+
+      <hr>
+      <h3><strong>EDUCATION</strong></h3>
+      <p>
+        <STRONG>2019-2022 Marketing with Digital Media
+
+                          <p>
+
+                            Edinburgh Napier University</STRONG></p>
+        <br>
+        <strong>2018-2019 Marketing Communications
+
+                        <p>
+
+                           Edinburgh College</strong>
+                           <br>
+                           Grade A</p>
+        <br>
+        <strong>2017-2018 Tourism with English
+          <br>
+                          <p>Edinburgh College
+                            <br>
+          </strong>       Grade A</p>
+        </p>
+  </body>
+  <hr>
+  <p>
+    <strong>SKILLS</strong>
+    <ul>
+      <li>
+        Front End Web Development (HTML,Java Script, CSS)
+      </li>
+      <li>Digital Marketing</li>
+      <li>Market Research</li>
+      <li>Microsoft Office</li>
+      <li>Adobe Suite</li>
+      <li>Axure RP8</li>
+      <li>Customer Service/Hospitality</li>
+      <li>Data evaluation</li>
+    </ul>
+  </p>
+
+
+</html>
